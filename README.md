@@ -16,7 +16,7 @@ JavaScript project for roadmap.sh
 [Roadmap Cart-Total-Calculator Project](https://roadmap.sh/projects/js-cart-total-calculator)
 
 ***My Solution:***
-[Idhm Solution]
+[Idhm Solution](https://roadmap.sh/projects/js-cart-total-calculator/solutions?u=6a41080523088a0480d07385)
 
 ## Made by
 **Github: [@Idhmoneys](https://github.com/Idhmoneys)**
